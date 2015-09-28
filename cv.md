@@ -8,11 +8,8 @@ I'm currently working on a couple of side projects: [countr](https://github.com/
 
 Please [let me know](mailto:luke.hedger@gmail.com) if you stumble across a friendly team looking for a frontend developer who enjoys learning, sharing, crafting and drinking.
 
-**[Portfolio](http://www.level-out.com/)**
-**[CV](cv.md)**
-
-Take it easy,
-Luke :)
+- **[Portfolio](http://www.level-out.com/)**
+- **[CV](cv.md)**
 
 ## Experience
 

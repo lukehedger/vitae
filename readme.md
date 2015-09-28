@@ -4,11 +4,8 @@ I'm Luke: love code, love beer and **will code for beer**. I like my code how I 
 
 I'm currently working on a couple of side projects: [countr](https://github.com/lukehedger/countr) and (*surprise!*) a site about beer. A few things fascinating me at the moment are **reactive programming**, **ITCSS** and **Diet.js**.
 
-**[Portfolio](http://www.level-out.com/)**
-**[CV](cv.md)**
-
-Take it easy,
-Luke :)
+- **[Portfolio](http://www.level-out.com/)**
+- **[CV](cv.md)**
 
 ## PDF
 
