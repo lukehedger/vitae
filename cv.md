@@ -2,9 +2,9 @@
 
 ## TL;DR
 
-I'm Luke: love code, love beer and **will code for beer**. I like my code how I like my beer: **finely crafted** with **fresh ingredients** and a **great aftertaste**. My favourite ingredients include **JavaScript**, **ES6**, **SASS**, **Ractive.js** and **Node.js**. You can witness the effect beer has on my code: [Land Rover Accessories](https://accessoriesmatcher.landrover.co.uk/), [Treasure Hunt](https://henhunt.divshot.io/) and [caniuseonmysite](http://caniuseonmysite.com/).
+I'm Luke - a progressive web developer, enjoying building original websites and drinking tasty beer.
 
-I'm currently working on a couple of side projects: [countr](https://github.com/lukehedger/countr) and (*surprise!*) a site about beer. A few things fascinating me at the moment are **reactive programming**, **ITCSS** and **Diet.js**.
+My current stack consists of: JavaScript (ES6/7), SASS/PostCSS, React, React Native and Node.js.
 
 Please [let me know](mailto:luke.hedger@gmail.com) if you stumble across a friendly team looking for a frontend developer who enjoys learning, sharing, crafting and drinking.
 
@@ -34,6 +34,6 @@ Mercer Ltd., London/Chichester
 
 ## Skills
 
-- *Programming*: JavaScript, ES6, CoffeeScript, Node.js, SASS, Stylus, MongoDB, Git
-- *Frameworks*: React, Angular, Express, Diet.js, Sails.js, InuitCSS
-- *Libraries*: Ractive
+- *Programming*: JavaScript, ES6/7, CoffeeScript, Node.js, SASS, Stylus, PostCSS, MongoDB, Git
+- *Frameworks*: React, Redux, React Native, Ractive, Express, CSS Modules
+- *Tools*: Webpack, Babel, Gulp, Tape
