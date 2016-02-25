@@ -6,10 +6,7 @@ I'm Luke - a progressive web developer, enjoying building original websites and 
 
 My current stack consists of: JavaScript (ES6/7), SASS/PostCSS, React, React Native and Node.js.
 
-Please [let me know](mailto:luke.hedger@gmail.com) if you stumble across a friendly team looking for a frontend developer who enjoys learning, sharing, crafting and drinking.
-
-- **[Portfolio](http://www.level-out.com/)**
-- **[CV](cv.md)**
+You can checkout my portfolio at **[level-out.com](http://www.level-out.com/)** and **[github.com/lukehedger](https://github.com/lukehedger)**
 
 ## Experience
 
@@ -36,4 +33,4 @@ Mercer Ltd., London/Chichester
 
 - *Programming*: JavaScript, ES6/7, CoffeeScript, Node.js, SASS, Stylus, PostCSS, MongoDB, Git
 - *Frameworks*: React, Redux, React Native, Ractive, Express, CSS Modules
-- *Tools*: Webpack, Babel, Gulp, Tape
+- *Tools*: Webpack, Babel, Gulp, Tape, Travis
