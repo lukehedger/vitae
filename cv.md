@@ -2,15 +2,24 @@
 
 ## TL;DR
 
-I'm Luke - a progressive web developer, enjoying building original websites and drinking tasty beer.
+I'm Luke - a progressive JavaScript developer and frontend architecture enthusiast. I have a creative core and believe in the power of simplicity and divergence.
 
-My current stack consists of: JavaScript (ES6/7), SASS/PostCSS, React, React Native and Node.js.
+My current stack consists of: JavaScript (ES6+), CSS-in-JS, React, Redux, GraphQL and Node.js.
 
 You can checkout my portfolio at **[level-out.com](http://www.level-out.com/)** and **[github.com/lukehedger](https://github.com/lukehedger)**
 
 ## Experience
 
-*Oct. 2014 - Current*
+*Apr. 2016 - current*
+**Frontend Developer**
+Unlease, London
+
+*Jan. 2016 - current*
+**Founder**
+Shandy Club, London
+<!-- Curated pubs for curious people -->
+
+*Oct. 2014 - Apr 2016*
 **Frontend Developer**
 M&C Saatchi, London
 <!-- Smart, modern websites and applications for clients including Converse, Land Rover, Ikea and Compare the Market. -->
@@ -31,6 +40,6 @@ Mercer Ltd., London/Chichester
 
 ## Skills
 
-- *Programming*: JavaScript, ES6/7, CoffeeScript, Node.js, SASS, Stylus, PostCSS, MongoDB, Git
-- *Frameworks*: React, Redux, React Native, Ractive, Express, CSS Modules
-- *Tools*: Webpack, Babel, Gulp, Tape, Travis
+- *Programming*: JavaScript, ES6+, Node.js, GraphQL, CSS-in-JS, MongoDB, Git
+- *Frameworks*: React, Redux, React Native, Relay, Inferno, Express, CSS Modules, SASS
+- *Tools*: Babel, Yarn, Webpack, Fusebox, Gulp, Prettier, ESLint, Tape, Travis, Codeship
