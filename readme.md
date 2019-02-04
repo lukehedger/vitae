@@ -1,9 +1,9 @@
 # Vitae
 
-I'm Luke - a progressive JavaScript developer and frontend architecture enthusiast.
+I'm Luke - a progressive web developer and software architecture enthusiast.
 
-- **Stack**: JavaScript (ES6+), CSS-in-JS, React, Redux, GraphQL, Node.js
-- **[Portfolio](http://www.level-out.com/)**
+- **Stack**: JavaScript, React, GraphQL, Node.js, Go
+- **[Portfolio](https://www.level-out.com/)**
 - **[GitHub](https://github.com/lukehedger)**
 - **[Medium](https://medium.com/@level_out/)**
 - **[CV](cv.md)**
