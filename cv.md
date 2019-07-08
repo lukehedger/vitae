@@ -2,32 +2,36 @@
 
 ## TL;DR
 
-I'm Luke - a progressive web developer and software architecture enthusiast. I have a creative core and believe in the power of simplicity and divergence.
+I'm Luke - a software engineer determined to solve every problem collaboratively and elegantly. I firmly believe in the power of simplicity and divergence.
 
-My current stack consists of: JavaScript, React, GraphQL, Node.js and Go.
+I build modern, scalable systems with predictable APIs and performant UIs.
+
+My current stack consists of: JavaScript, React, Node.js, Go, GraphQL and PostgreSQL.
 
 You can checkout my portfolio at **[level-out.com](https://www.level-out.com/)** and **[github.com/lukehedger](https://github.com/lukehedger)**
 
 ## Experience
 
-*Mar. 2017 - current* | **Fullstack Developer** | JAAK, London
+_Mar 2017 - current_ | **Fullstack Developer, Head of Platform** | JAAK
 
-*Apr. 2016 - Mar. 2017* | **Frontend Developer** | Unlease, London
-<!-- Revolutionising the London rental scene and sending pineapples to people -->
+<!-- Streamlining music licensing through modern APIs and robust data structures. -->
 
-*Oct. 2014 - Apr 2016* | **Frontend Developer** | M&C Saatchi, London
+_Apr 2016 - Mar 2017_ | **Frontend Developer** | Unlease
+
+<!-- Revolutionising the London rental scene and sending pineapples to people. -->
+
+_Oct 2014 - Apr 2016_ | **Frontend Developer** | M&C Saatchi
+
 <!-- Smart, modern websites and applications for clients including Converse, Land Rover, Ikea and Compare the Market. -->
 
-*May 2013 - Oct. 2014* | **Creative Developer** | Lean Mean Fighting Machine, London
+_May 2013 - Oct 2014_ | **Creative Developer** | Lean Mean Fighting Machine
+
 <!-- Finely crafted creations for clients like Unilever, Men's Health Forum, Forevermark and Google. -->
 
-*Nov. 2010 - May 2013* | **Lead Systems Engineer** | Enrich Reward Ltd., London
+_Nov 2010 - May 2013_ | **Lead Systems Engineer** | Enrich Reward Ltd.
+
 <!-- Conception, design and development of an employee benefits system. -->
 
-*2007-2010* | **Web Analyst, Senior Helpdesk Analyst, Senior Flex Administrator** | Mercer Ltd., London/Chichester
+_Nov 2007 - Nov 2010_ | **Web Analyst** | Mercer Ltd.
 
-## Skills
-
-- *Programming*: JavaScript, Node.js, GraphQL, Go, Postgres, Git
-- *Frameworks*: React, React Native, Apollo, Styled Components, Jest
-- *Tools*: Babel, Webpack, Prettier, ESLint
+<!-- Reporting and maintenance of global pensions admininstration system. -->

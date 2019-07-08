@@ -1,8 +1,8 @@
 # Vitae
 
-I'm Luke - a progressive web developer and software architecture enthusiast.
+I'm Luke - a software engineer determined to solve every problem collaboratively and elegantly.
 
-- **Stack**: JavaScript, React, GraphQL, Node.js, Go
+- **Stack**: JavaScript, React, Node.js, Go, GraphQL, PostgreSQL
 - **[Portfolio](https://www.level-out.com/)**
 - **[GitHub](https://github.com/lukehedger)**
 - **[Medium](https://medium.com/@level_out/)**
@@ -19,6 +19,7 @@ pandoc cv.md -o cv.pdf
 ```
 
 To install `pandoc`:
+
 ```
 brew install pandoc
 brew cask install basictex
