@@ -16,7 +16,7 @@ Over the past 12 years, I have worked at all layers of the software engineering 
 
 ### Timeline
 
-_Mar 2017 - current_ | **Software Engineer, Head of Platform** | JAAK
+_Mar 2017 - Aug 2019_ | **Software Engineer, Head of Platform** | JAAK
 
 Headed up development of the JAAK platform, providing content infrastructure to innovative music platforms and independent artists, with features including user authentication, content delivery and payments. Worked across the entire stack to build scalable APIs in Go and performant React applications that aggregated rights data and assets for millions of musical works and recordings. Also lead research projects around programmatic licensing, modelling decentralised identity and reputation in an open network and developing a rules engine for verifiable claims using JSON Schema and Lua.
 
@@ -24,7 +24,7 @@ Headed up development of the JAAK platform, providing content infrastructure to 
 
 _Apr 2016 - Mar 2017_ | **Software Engineer** | Unlease
 
-Lead product development of web application for UK-wide peer-to-peer rental community. Consistently shipped regular feature updates to 1000s of users, such as KYC, live text and video chat and intuitive date-picker. I also built a bunch of internal tools, including an account management dashboard, automated sitemap generator and pineapple delivery logistics system for a promotional campaign where Londoners could send each other pineapples (the logo was a pineapple).
+Lead product development of web application for UK-wide peer-to-peer rental community. Consistently shipped regular feature updates to 1000s of users, such as KYC, live text and video chat and intuitive date-picker. I also built a bunch of internal tools, including an account management dashboard, automated sitemap generator and pineapple delivery logistics system for a promotional campaign where Londoners could send each other pineapples.
 
 ^\_^
 
