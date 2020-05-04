@@ -6,15 +6,21 @@ I'm Luke - a software engineer determined to solve every problem collaboratively
 
 I build modern, scalable systems with predictable APIs and performant UIs.
 
-My primary stack consists of: JavaScript, React, Node.js, Go, GraphQL and PostgreSQL.
+My primary stack consists of: JavaScript, React, Node.js, Go, GraphQL, PostgreSQL and AWS.
 
 You can checkout my portfolio at **[level-out.com](https://www.level-out.com/)** and **[github.com/lukehedger](https://github.com/lukehedger)**
 
 ## Experience
 
-Over the past 12 years, I have worked at all layers of the software engineering stack; on state-of-the-art React apps, serverless Go APIs, blockchain networks, viral marketing websites, open source tools and a pineapple delivery system. I've worked for early-stage startups, international corporations and infamous advertising agencies. I've also written articles and given talks about some of the things I've discovered along the way.
+Over the past 12 years, I have worked at all layers of the software engineering stack; on serverless payment platforms, state-of-the-art React apps, blockchain networks, viral marketing websites, open source tools and a pineapple delivery system. I've worked for early-stage startups, international corporations, prominent charities and infamous advertising agencies. I've also written articles and given talks about some of the things I've discovered along the way.
 
 ### Timeline
+
+_Sep 2019 - Current_ | **Lead Software Engineer** | Cancer Research UK
+
+Leading development of a greenfield payments platform to process Cancer Research UK's online donations.
+
+^\_^
 
 _Mar 2017 - Aug 2019_ | **Software Engineer, Head of Platform** | JAAK
 
