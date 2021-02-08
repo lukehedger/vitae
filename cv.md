@@ -2,11 +2,11 @@
 
 ## TL;DR
 
-I'm Luke - a software engineer determined to solve every problem collaboratively and elegantly. I firmly believe in the power of simplicity and divergence.
+I'm Luke - a software engineer and engineering manager determined to solve every problem collaboratively and elegantly. I firmly believe in the power of simplicity and divergence.
 
-I build modern, scalable systems with predictable APIs and performant UIs.
+I build modern, scalable systems with event-driven APIs and performant UIs.
 
-My primary stack consists of: JavaScript, React, Node.js, Go, GraphQL, PostgreSQL and AWS.
+My primary stack consists of: TypeScript, Node.js, GraphQL and React/Next.js. My cloud of choice is AWS.
 
 You can checkout my portfolio at **[level-out.com](https://www.level-out.com/)** and **[github.com/lukehedger](https://github.com/lukehedger)**
 
@@ -16,15 +16,21 @@ Over the past 12 years, I have worked at all layers of the software engineering 
 
 ### Timeline
 
-_Sep 2019 - Current_ | **Lead Software Engineer** | Cancer Research UK
+_Sep 2019 - Current_ | **Lead Software Engineer (Payments)** | Cancer Research UK
 
-Leading development of a greenfield payments platform to process Cancer Research UK's online donations.
+Lead development of a greenfield payments platform to process Cancer Research UK's online donations, including the Stand Up To Cancer TV campaigns on Channel 4. Provided technical leadership on architecture, implementation and operation in response to critical demand from the charity to migrate processing of 1000s of daily transactions from an unreliable and expensive legacy system to a resilient, scalable and cost-effective platform.
+
+In the first few months, the plaform realised a 94% reduction in operational costs, scaling without incident to process over £1m of donations with a 30% increase in conversion.
+
+The payments platform is cloud native on AWS and fully serverless, with an event-driven architecture that leverages Lambda (Node.js/TypeScript), Step Functions, Amplify, AppSync, API Gateway, EventBridge, SQS, Kinesis Firehose, Glue and Athena.
+
+A rapid yet sustainable agile workflow was established to continually deliver new features and optimisations, combining the modern practices of infrastructure-as-code, continuous delivery, GitOps and fully automated, self-mutating deployment pipelines with tools such as the AWS CDK, AWS CodePipeline and GitHub Actions.
 
 ^\_^
 
 _Mar 2017 - Aug 2019_ | **Software Engineer, Head of Platform** | JAAK
 
-Headed up development of the JAAK platform, providing content infrastructure to innovative music platforms and independent artists, with features including user authentication, content delivery and payments. Worked across the entire stack to build scalable APIs in Go and performant React applications that aggregated rights data and assets for millions of musical works and recordings. Also lead research projects around programmatic licensing, modelling decentralised identity and reputation in an open network and developing a rules engine for verifiable claims using JSON Schema and Lua.
+Headed up development of the JAAK platform, providing content infrastructure to innovative music platforms and independent artists, with features including user authentication, content delivery and payments. Worked across the entire stack to build scalable APIs in Go and performant React applications that aggregated rights data and assets for millions of musical works and recordings. Also lead research projects around programmatic licensing on the Ethereum blockchain, modelling decentralised identity and reputation in an open network and developing a rules engine for verifiable claims using JSON Schema and Lua.
 
 ^\_^
 
@@ -48,7 +54,7 @@ Worked on briefs from ideation through to deployment, churning out finely crafte
 
 _Nov 2010 - May 2013_ | **Lead Systems Engineer** | Enrich Reward Ltd.
 
-Lead the conception, design and development of an enterprise-grade employee benefits system that serviced 1000s of users.
+Lead the conception, design and development of an enterprise-grade employee benefits SaaS platform that serviced 1000s of users.
 
 ^\_^
 
