@@ -2,11 +2,10 @@
 
 I'm Luke - a software engineer determined to solve every problem collaboratively and elegantly.
 
-- **Stack**: TypeScript, Node.js, GraphQL, React/Next.js
-- **Cloud**: AWS, serverless
-- **[Portfolio](https://www.level-out.com/)**
+- **Stack**: TypeScript, Node.js, Bun, AWS, Claude Code
+- **Current**: Serverless, event sourcing, durable execution, autonomous agents
+- **[Portfolio](https://lukehedger.dev/)**
 - **[GitHub](https://github.com/lukehedger)**
-- **[Medium](https://medium.com/@level_out/)**
 - **[CV](cv.md)**
 
 ![a CV gif](cv.gif)

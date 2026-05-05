@@ -2,21 +2,27 @@
 
 ## TL;DR
 
-I'm Luke - a software engineer and engineering manager determined to solve every problem collaboratively and elegantly. I firmly believe in the power of simplicity and divergence.
+I'm Luke - a software engineer and engineering lead determined to solve every problem collaboratively and elegantly. I firmly believe in the power of simplicity and curiosity.
 
-I build modern, scalable systems with event-driven APIs and performant UIs.
+My primary stack consists of: TypeScript, Node.js, Bun, AWS and Claude Code.
 
-My primary stack consists of: TypeScript, Node.js, GraphQL and React/Next.js. My cloud of choice is AWS.
-
-You can checkout my portfolio at **[level-out.com](https://www.level-out.com/)** and **[github.com/lukehedger](https://github.com/lukehedger)**
+You can checkout my portfolio at **[lukehedger.dev](https://lukehedger.dev/)** and **[github.com/lukehedger](https://github.com/lukehedger)**
 
 ## Experience
 
-Over the past 12 years, I have worked at all layers of the software engineering stack; on serverless payment platforms, state-of-the-art React apps, blockchain networks, viral marketing websites, open source tools and a pineapple delivery system. I've worked for early-stage startups, international corporations, prominent charities and infamous advertising agencies. I've also written articles and given talks about some of the things I've discovered along the way.
+Over the past 19 years, I have worked at all layers of the software engineering stack; on serverless payment platforms, state-of-the-art React apps, blockchain networks, viral marketing websites, open source tools and a pineapple delivery system. I've worked for early-stage startups, international corporations, prominent charities, infamous advertising agencies and one of the biggest brands on the planet. I've also written several articles and given many talks about the things I've discovered along the way.
+
+In 2024, I co-authored the book [_Serverless Development on AWS_](https://www.oreilly.com/library/view/serverless-development-on/9781098141929/), published by O'Reilly.
+
+I was recognised as an AWS Community Builder from 2022-2026 for contributions to the serverless community.
 
 ### Timeline
 
-_Sep 2019 - Current_ | **Lead Software Engineer (Payments)** | Cancer Research UK
+_Jul 2021 - Current_ | **Lead Software Engineer (Payments and Fraud Prevention)** | The LEGO Group
+
+^\_^
+
+_Sep 2019 - June 2021_ | **Lead Software Engineer (Payments)** | Cancer Research UK
 
 Lead development of a greenfield payments platform to process Cancer Research UK's online donations, including the Stand Up To Cancer TV campaigns on Channel 4. Provided technical leadership on architecture, implementation and operation in response to critical demand from the charity to migrate processing of 1000s of daily transactions from an unreliable and expensive legacy system to a resilient, scalable and cost-effective platform.
 
