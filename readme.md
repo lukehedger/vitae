@@ -16,12 +16,11 @@ I'm Luke - a software engineer determined to solve every problem collaboratively
 To build `cv.pdf` from `cv.md` just run:
 
 ```
-pandoc cv.md -o cv.pdf
+pandoc cv.md -o cv.pdf --pdf-engine=typst
 ```
 
-To install `pandoc`:
+To install dependencies:
 
 ```
-brew install pandoc
-brew cask install basictex
+brew install pandoc typst
 ```
