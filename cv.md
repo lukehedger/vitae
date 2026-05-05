@@ -20,6 +20,14 @@ I was recognised as an AWS Community Builder from 2022-2026 for contributions to
 
 _Jul 2021 - Current_ | **Lead Software Engineer (Payments and Fraud Prevention)** | The LEGO Group
 
+Lead engineering on the payments platform that processes transactions across the LEGO Group's digital business units, including LEGO.com, the LEGO Insiders app and LEGO Education. Technical lead for a team of 7 engineers, setting direction on architecture, reliability and delivery.
+
+The platform is fully serverless on AWS, built around an event-sourced payments lifecycle engine. The stack leverages Lambda, Lambda Durable Functions, Step Functions, EventBridge, SQS, DynamoDB, S3 and X-Ray, with a third-party fraud prevention vendor integrated into the transaction flow.
+
+Over 5 consecutive Black Friday / Cyber Monday peak weekends, the platform has scaled and processed sales events without incident - part of a wider track record of highly successful launches across the business. As one of the early adopters of serverless architecture at scale, the codebase has matured alongside community best practice, continuously evolving as the ecosystem has grown.
+
+Beyond the platform, I've grown several internal communities - a backend engineering meetup, a whitepaper discussion group and a lead engineering community - and mentored senior engineers across the organisation. I've authored guidelines on code quality, test strategy, reliability, agentic AI usage, CDK, TypeScript and serverless development that are used by engineering teams across the group.
+
 ^\_^
 
 _Sep 2019 - June 2021_ | **Lead Software Engineer (Payments)** | Cancer Research UK
